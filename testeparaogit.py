@@ -1,0 +1,1 @@
+print('Este arquivo é apenas um teste para o Git e GitHub')
